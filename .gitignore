@@ -35,3 +35,8 @@ build/
 # CSV or SQL files containing sensitive data
 Zendesk Export.csv
 Ticket DB Update.sql
+
+# .py files 
+logout.py
+login.py
+register.py
