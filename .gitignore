@@ -1,0 +1,37 @@
+# Environment variables
+.env
+*.env
+instance/*.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Local database files (if using SQLite)
+*.sqlite
+*.db
+
+# Dash/Flask build artifacts
+*.egg-info/
+dist/
+build/
+
+# CSV or SQL files containing sensitive data
+Zendesk Export.csv
+Ticket DB Update.sql
